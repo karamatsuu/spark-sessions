@@ -1,0 +1,3 @@
+pyspark>=3.4
+# pandas is only needed for reference_check.py (optional sanity check)
+pandas>=1.5
